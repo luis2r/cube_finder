@@ -1,0 +1,1178 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sen",
+				"sensor_msgs"
+			],
+			[
+				"rosnode_",
+				"rosnode_handle_t	typedef"
+			],
+			[
+				"ros",
+				"rosnode_handle_t	typedef"
+			],
+			[
+				"set_label",
+				"set_labelloc"
+			],
+			[
+				"ch",
+				"chunk	forflow"
+			],
+			[
+				"svn",
+				"svn_chunks	statement"
+			],
+			[
+				"asutin",
+				"austin_raw	statement"
+			],
+			[
+				"inter",
+				"interface_graphs	statement"
+			],
+			[
+				"capa",
+				"capability_interface_from_string"
+			],
+			[
+				"seman",
+				"semantic_capability_interface"
+			],
+			[
+				"sema",
+				"semantic_capability_interface"
+			],
+			[
+				"defau",
+				"default_provider	param"
+			],
+			[
+				"default",
+				"default_provider"
+			],
+			[
+				"defa",
+				"default_provider"
+			],
+			[
+				"semanti",
+				"semantic_interface_names	function"
+			],
+			[
+				"depends",
+				"depends_on"
+			],
+			[
+				"runn",
+				"running_capabilities	statement"
+			],
+			[
+				"for",
+				"format	function"
+			],
+			[
+				"Key",
+				"KeyboardInterrupt	class"
+			],
+			[
+				"ST",
+				"STDOUT	statement"
+			],
+			[
+				"assert",
+				"assert_raises_regex	import"
+			],
+			[
+				"test_",
+				"test_launch_manager"
+			],
+			[
+				"call",
+				"call_service	import"
+			],
+			[
+				"ass",
+				"assert_raises	import"
+			],
+			[
+				"start",
+				"start_capability"
+			],
+			[
+				"__capa",
+				"__capability_instances"
+			],
+			[
+				"Sys",
+				"SystemExit	class"
+			],
+			[
+				"inva",
+				"invalid_specs_dir"
+			],
+			[
+				"inv",
+				"invalid_specs_dir"
+			],
+			[
+				"cap",
+				"capability_server	statement"
+			],
+			[
+				"cre",
+				"create_capability_instance	function"
+			],
+			[
+				"print",
+				"print_function	statement"
+			],
+			[
+				"cpa",
+				"capability_server"
+			],
+			[
+				"minimal",
+				"minimal_pkg"
+			],
+			[
+				"ser",
+				"service_type	param"
+			],
+			[
+				"Ser",
+				"ServiceProxy	import"
+			],
+			[
+				"wait",
+				"wait_for_service	import"
+			],
+			[
+				"resu",
+				"result_file	statement"
+			],
+			[
+				"gutter",
+				"gutter_mark_image	statement"
+			],
+			[
+				"track",
+				"traceback	import"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "CMakeLists.txt",
+			"settings":
+			{
+				"buffer_size": 2226,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main.cc",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "include/cube_finder/cube_finder.h",
+			"settings":
+			{
+				"buffer_size": 169,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/cube_finder.cpp",
+			"settings":
+			{
+				"buffer_size": 98,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.xml",
+			"settings":
+			{
+				"buffer_size": 666,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"gist",
+				"Gist: Insert Gist"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"yaml",
+				"Set Syntax: YAML"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 462.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/william/Library/Application Support/Sublime Text 3/Packages/User/SublimeClang.sublime-settings",
+		"/Users/william/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/william/devel/cube_finder/include/cube_finder/cube_finder.h",
+		"/Users/william/devel/cube_finder/src/cube_finder.cpp",
+		"/Users/william/devel/std_capabilities/CMakeLists.txt",
+		"/Users/william/devel/turtlebot2_capabilities/.git/MERGE_MSG",
+		"/Users/william/devel/turtlebot2_capabilities/package.xml",
+		"/Users/william/devel/turtlebot2_capabilities/CMakeLists.txt",
+		"/Users/william/Library/Application Support/Sublime Text 3/Packages/User/Gist.sublime-settings",
+		"/Users/william/devel/capabilities/Makefile",
+		"/tmp/rqt/rqt_gui/src/rqt_gui/main.py",
+		"/tmp/rqt/.git/COMMIT_EDITMSG",
+		"/tmp/rqt/rqt_gui/CMakeLists.txt",
+		"/Users/william/Desktop/rqt.svg",
+		"/Users/william/mnt/diamond/home/osrf/capa_ws/src/turtlebot2_capabilities/providers/launch/tb2_bringup.launch",
+		"/Users/william/mnt/diamond/home/osrf/capa_ws/src/turtlebot2_capabilities/providers/launch/tb2_fake_laser_sensor.launch",
+		"/Users/william/mnt/diamond/home/osrf/capa_ws/src/capabilities/src/capabilities/server.py",
+		"/Users/william/mnt/diamond/home/osrf/capa_ws/src/turtlebot2_capabilities/providers/launch/placeholder.py",
+		"/tmp/capa_ws/src/turtlebot2_capabilities/providers/launch/tb2_bringup.launch",
+		"/tmp/capa_ws/src/std_capabilities/interfaces/RGBDSensor.yaml",
+		"/tmp/capa_ws/src/std_capabilities/interfaces/LaserSensor.yaml",
+		"/tmp/capa_ws/src/turtlebot2_capabilities/providers/tb2_kinect_rgbd_sensor.yaml",
+		"/tmp/capa_ws/src/turtlebot2_capabilities/providers/launch/tb2_kinect_rgbd_sensor.launch",
+		"/tmp/capa_ws/src/turtlebot2_capabilities/providers/launch/tb2_fake_laser_sensor.launch",
+		"/tmp/capa_ws/src/turtlebot2_capabilities/providers/launch/tb2_differential_mobile_base.launch",
+		"/tmp/capa_ws/src/turtlebot2_capabilities/package.xml",
+		"/tmp/capa_ws/src/turtlebot2_capabilities/interfaces/TB2Bringup.yaml",
+		"/tmp/capa_ws/src/turtlebot2_capabilities/providers/tb2_fake_laser_sensor.yaml",
+		"/tmp/capa_ws/src/turtlebot2_capabilities/providers/tb2_differential_mobile_base.yaml",
+		"/tmp/capa_ws/src/std_capabilities/package.xml",
+		"/tmp/capa_ws/src/turtlebot2_capabilities/interfaces/TB2Bringup.launch",
+		"/tmp/capa_ws/src/turtlebot2_capabilities/providers/tb2_bringup.yaml",
+		"/tmp/capa_ws/src/turtlebot2_capabilities/CMakeLists.txt",
+		"/tmp/capa_ws/src/std_capabilities/CMakeLists.txt",
+		"/tmp/capa_ws/src/std_capabilities/interfaces/Navigation2D.yaml",
+		"/tmp/capa_ws/src/std_capabilities/interfaces/DifferentialMobileBase.yaml",
+		"/Users/william/devel/salix/demos/discovery/src/main.c",
+		"/Users/william/devel/salix/demos/discovery/spec.rst",
+		"/Users/william/devel/salix/demos/discovery/include/rosgraph/rosnode.h",
+		"/Users/william/devel/salix/demos/discovery/include/rosgraph/rosgraph.h",
+		"/tmp/std_interfaces_ws/src/capabilities/test/unit/specs/interfaces/RGBCamera.yaml",
+		"/tmp/std_interfaces_ws/src/std_capabilities/package.xml",
+		"/tmp/std_interfaces_ws/src/std_capabilities/CMakeLists.txt",
+		"/tmp/std_interfaces_ws/src/capabilities/test/unit/discovery_workspaces/dependent_capabilities/differential_mobile_base_capability/interfaces/DifferentialMobileBase.yaml",
+		"/tmp/std_interfaces_ws/src/std_interfaces/CMakeLists.txt",
+		"/tmp/std_interfaces_ws/src/std_interfaces/LICENSE",
+		"/tmp/std_interfaces_ws/src/std_interfaces/README.md",
+		"/tmp/std_interfaces_ws/src/std_interfaces/package.xml",
+		"/tmp/std_interfaces_ws/src/capabilities/test/unit/discovery_workspaces/minimal/minimal_pkg/package.xml",
+		"/Users/william/devel/capabilities/src/capabilities/server.py",
+		"/Users/william/devel/capabilities/src/capabilities/service_discovery.py",
+		"/Users/william/devel/capabilities/src/capabilities/launch_manager.py",
+		"/tmp/capab_ws/src/qt_gui_core/qt_dotgraph/src/qt_dotgraph/pydotfactory.py",
+		"/tmp/in.dot",
+		"/tmp/capab_ws/src/rqt_capabilities/src/rqt_capabilities/capability_graph.py",
+		"/tmp/capab_ws/src/rqt_capabilities/src/rqt_capabilities/graphics_view.py",
+		"/tmp/capab_ws/src/qt_gui_core/qt_dotgraph/src/qt_dotgraph/pygraphvizfactory.py",
+		"/tmp/capab_ws/src/rqt_capabilities/src/rqt_capabilities/dotcode.py",
+		"/tmp/capab_ws/src/qt_gui_core/qt_dotgraph/src/qt_dotgraph/node_item.py",
+		"/tmp/capab_ws/src/qt_gui_core/qt_dotgraph/src/qt_dotgraph/dot_to_qt.py",
+		"/tmp/capab_ws/src/rqt_common_plugins/rqt_graph/src/rqt_graph/dotcode.py",
+		"/tmp/junk.py",
+		"/tmp/austin.txt",
+		"/tmp/both.txt",
+		"/tmp/other.txt",
+		"/tmp/svn.txt",
+		"/tmp/trac.txt",
+		"/Users/william/Downloads/rosdistro.grep",
+		"/Users/william/devel/capabilities/src/capabilities/specs/provider.py",
+		"/Users/william/devel/capabilities/src/capabilities/specs/semantic_interface.py",
+		"/Users/william/devel/capabilities/src/capabilities/specs/interface.py",
+		"/Users/william/hydro/install_isolated/lib/python2.7/site-packages/rqt_graph/interactive_graphics_view.py",
+		"/Users/william/devel/capabilities/.git/COMMIT_EDITMSG",
+		"/Users/william/devel/capabilities/launch/demo.launch",
+		"/Users/william/devel/capabilities/test/rostest/test_server/test_dependent_capabilities.py",
+		"/Users/william/devel/capabilities/.git/rebase-merge/git-rebase-todo",
+		"/Users/william/devel/capabilities/test/rostest/test_launch_manager/test_launch_manager.py",
+		"/Users/william/devel/capabilities/test/unit/common.py",
+		"/tmp/capabilities_build/test_results/capabilities/rosunit-launch_manager.xml",
+		"/tmp/capabilities_build/test_results/capabilities/rosunit-invalid_specs.xml",
+		"/Users/william/devel/capabilities/test/rostest/test_launch_manager/test_launch_manager.test",
+		"/Users/william/devel/capabilities/test/rostest/test_server/test_invalid_specs.test",
+		"/Users/william/devel/capabilities/test/rostest/test_server/test_invalid_specs.py",
+		"/Users/william/devel/capabilities/CMakeLists.txt",
+		"/junk.py",
+		"/Users/william/devel/capabilities/test/rostest/test_server/test_launch_manager.py",
+		"/Users/william/devel/capabilities/test/rostest/test_server/dummy_exec.py",
+		"/Users/william/devel/capabilities/test/unit/test_launch_manager.py",
+		"/Users/william/devel/capabilities/test/rostest/test_server/test_launch_manager.test",
+		"/Users/william/devel/capabilities/test/unit/test_discovery.py",
+		"/Users/william/devel/capabilities/test/unit/test_server.py",
+		"/Users/william/devel/capabilities/test/unit/fake_root/bin/ls",
+		"/Users/william/devel/capabilities/test/rostest/test_server/test_ros_services.py",
+		"/Users/william/devel/capabilities/test/rostest/test_server/test_dependent_capabilities.test",
+		"/Users/william/.ros/log/rostest-dosa-83629.log",
+		"/Users/william/devel/capabilities/test/rostest/test_server/dependent_capabilities/navigation_capability/providers/faux_navigation_no_preferred_provider.yaml",
+		"/Users/william/devel/capabilities/test/rostest/test_server/dependent_capabilities/navigation_capability/package.xml",
+		"/Users/william/devel/capabilities/test/rostest/test_server/dependent_capabilities/differential_mobile_base_capability/package.xml",
+		"/Users/william/devel/capabilities/test/rostest/test_server/dependent_capabilities/navigation_capability/providers/faux_navigation_invalid_preferred_provider.yaml",
+		"/Users/william/devel/capabilities/test/rostest/test_server/dependent_capabilities/navigation_capability/providers/faux_navigation.yaml",
+		"/Users/william/devel/capabilities/msg/CapabilityEvent.msg",
+		"/Users/william/devel/capabilities/test/rostest/test_server/test_ros_services.test",
+		"/Users/william/devel/capabilities/test/rostest/test_server/no_provider/no_default_provider_pkg/package.xml",
+		"/Users/william/devel/capabilities/test/rostest/test_server/no_provider/no_default_provider_pkg/interfaces/Minimal.yaml",
+		"/Users/william/devel/capabilities/test/rostest/test_service_discovery/test_spec_index_from_service.py",
+		"/Users/william/devel/capabilities/test/rostest/test_service_discovery/test_spec_index_from_service.test",
+		"/Users/william/devel/capabilities/test/unit/discovery_workspaces/dependent_capabilities/navigation_capability/package.xml",
+		"/Users/william/devel/capabilities/test/rostest/test_server/no_default_provider/test_dependent_capabilities.py",
+		"/Users/william/devel/capabilities/test/rostest/test_server/no_default_provider/test_dependent_capabilities.test",
+		"/Users/william/hydro/install_isolated/lib/python2.7/site-packages/rospy/impl/tcpros_service.py",
+		"/Users/william/devel/capabilities/.travis.yml",
+		"/Users/william/devel/capabilities/test/rostest/test_server/no_default_provider/no_default_provider_pkg/package.xml",
+		"/Users/william/devel/capabilities/test/rostest/test_server/no_default_provider/no_default_provider_pkg/interfaces/SpecificMinimal.yaml",
+		"/Users/william/devel/capabilities/test/rostest/test_server/no_default_provider/no_default_provider_pkg/providers/minimal2.yaml",
+		"/Users/william/devel/capabilities/test/rostest/test_server/no_default_provider/no_default_provider_pkg/providers/minimal.yaml",
+		"/Users/william/devel/capabilities/test/rostest/test_server/no_default_provider/no_default_provider_pkg/providers/specific_minimal.yaml",
+		"/Users/william/devel/capabilities/test/rostest/test_server/no_default_provider/no_default_provider_pkg/providers/launch/minimal2.launch",
+		"/Users/william/devel/capabilities/.coveragerc",
+		"/Users/william/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/sublimelinter/loader.py",
+		"/Users/william/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/sublimelinter/modules/base_linter.py",
+		"/Users/william/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/sublimelinter/modules/python.py",
+		"/Users/william/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/sublimelinter/modules/libs/pyflakes/messages.py",
+		"/Users/william/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.py",
+		"/Users/william/Library/Application Support/Sublime Text 3/Packages/SublimePythonCoverage/coverage/backward.py",
+		"/tmp/rospy_ws/src/ros_comm/.git/rebase-merge/git-rebase-todo",
+		"/Users/william/devel/capabilities/scripts/capability_server",
+		"/Users/william/Desktop/xml-snippet.txt",
+		"/Users/william/devel/capabilities/msg/RunningCapability.msg"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"/Users/william/Library/Application Support/Sublime Text 3/Packages/SublimeLinter",
+			"/Users/william/devel/capabilities/test",
+			"/tmp/ros_comm/test/test_rospy",
+			"/Users/william/Library/Application Support/Sublime Text 3/Packages/SublimeLinter"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cube_finder",
+			"__start_capability",
+			"handle_start_capability",
+			"launch",
+			"maintainer",
+			" '",
+			"int32_t",
+			"HELLO_GROUP",
+			"ROSNODE",
+			" \n",
+			"std_interfaces",
+			"maintainer",
+			"PydotFactory",
+			"set_labelloc",
+			"trac",
+			"svn",
+			"\nhttp://wiki.ros.org/",
+			"getNodeItemForSubgraph",
+			"subgra",
+			"print",
+			"get_reverse_depends",
+			"e",
+			"'minimal_pkg/minimal'",
+			"CapabilityInstance",
+			"launch",
+			"os.path.join(fake_bin, 'ls')",
+			"__get_capability_instances_from_provider",
+			"__get_providers_for_interface",
+			"shutdown",
+			".launch",
+			"launch",
+			"get_reverse_depends",
+			"__get_capability_instances_from_provider",
+			"get_running_capabilities",
+			"__stop_capability",
+			"will",
+			"invalid_specs_dir",
+			"An exception occured when running pep8 checker",
+			"print",
+			"/path/2",
+			"`pwd`_build",
+			"_thread",
+			"handle",
+			"'test_ros_services'",
+			"rostest_name_from_path",
+			"print",
+			"",
+			"build",
+			"test_node",
+			"Unable to decode"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\n----\nhttp://wiki.ros.org/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "CMakeLists.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2226,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								394,
+								394
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/CMake/CMake.tmLanguage",
+							"tab_size": 2
+						},
+						"translation.x": 0.0,
+						"translation.y": 464.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/main.cc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "include/cube_finder/cube_finder.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 169,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								144,
+								127
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/cube_finder.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 98,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								95,
+								95
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "package.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 666,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								656,
+								656
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clang":
+	{
+		"height": 102.0
+	},
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"project": "cube_finder.sublime-project",
+	"replace":
+	{
+		"height": 118.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

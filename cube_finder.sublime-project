@@ -1,0 +1,19 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/Users/william/devel/cube_finder"
+		}
+	],
+    "settings":
+    {
+        "sublimeclang_options":
+        [
+            "-I/Users/william/hydro/install_isolated/include",
+            "-I/usr/local/include/pcl-1.7",
+            "-I/usr/local/include/eigen3",
+            "-I${folder:${project_path:cube_finder.sublime-project}}/include",
+        ]
+    }
+}
